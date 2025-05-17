@@ -7,7 +7,7 @@
 
 ![watch dogs](https://github.com/user-attachments/assets/c0182730-1dd3-48c1-a0d8-61cc32214d23)
 
-![Hacker](https://github.com/user-attachments/assets/d827243b-e360-4c3c-be9e-e18e3a134702)
+
 
 
 
