@@ -1,4 +1,4 @@
-<h1 align="center">Greetings my fellows wannabe devs , I am THe_FøX </h1>
+<h1 align="center">Greetings my fellow wannabe devs , I am THe_FøX </h1>
 
 
 </p>
