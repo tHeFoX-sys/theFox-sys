@@ -2,9 +2,9 @@
 
 <h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat Ethical Hacker and of course Hardware Engineer I create a big variety of projects some of course for educational purposes only, others to fully inspect and study in depth my code.Make sure to follow me on GITHUB!!!!<br>
 
-<h3 align = "center">Worth mentioning I don't take biased, intoxicated and impartial people for granted. I was doubted about my skill in the past during my major year by "senior devs" who happened to be my teachers, but I had only one gif in my mind just take a look because to be honest they never knew and they never saw it coming :p</h3>
+<h3 align="center">Worth mentioning I don't take biased, intoxicated and impartial people for granted. I was doubted about my skill in the past during my major year by "senior devs" who happened to be my teachers, but I had only one gif in my mind just take a look because to be honest they never knew and they never saw it coming :p</h3>
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6938b5d-46e5-42e0-8471-2bb517b0e268" />
+<img src="skull.gif" align="center">
 
 
 
