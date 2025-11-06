@@ -1,5 +1,6 @@
 <h1 align="center">Greetings my fellow wannabe devs , I am THe_FøX </h1>
 
+<h3 align="center" style = font-family:verdana;> As an experienced Certified Full Stack Developer, Blue Hat Ethical Hacker and of course Hardware Engineer I create a big variety of projects some of course for educational purposes only, others to fully inspect and study in depth my code.Make sure to follow me on GITHUB!!!!<br>
 
 </p>
 <h3 align="left">Languages and Tools: My Engineering Arsenal :)</h3>
