@@ -3,7 +3,7 @@
 <h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat Ethical Hacker and of course Hardware Engineer I create a big variety of projects some of course for educational purposes only, others to fully inspect and study in depth my code.Make sure to follow me on GITHUB!!!!<br><br>
 
   <div align = "center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tHeFoX-sys&show_icons=true&locale=en&layout=compact&theme=neon" alt="tHeFoX-sys" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tHeFoX-sys&show_icons=true&locale=en&layout=pie&theme=neon" alt="tHeFoX-sys" /></p>
   </div>
 
 
