@@ -1,6 +1,6 @@
 <h1 align="center">Greetings my fellow wannabe devs , I am THe_FøX </h1>
 
-<h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat Ethical Hacker and of course Hardware Engineer I create a big variety of projects some of course for educational purposes only, others to fully inspect and study in depth my code.Make sure to follow me on GITHUB!!!!<br><br>
+<h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat Ethical PROFESSIONAL Hacker and of course Hardware Engineer I create a big variety of projects some of course for educational purposes only, others to fully inspect and study in depth my code.Make sure to follow me on GITHUB!!!!<br><br>
 
   <div align = "center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tHeFoX-sys&show_icons=true&locale=en&layout=pie&theme=neon" alt="tHeFoX-sys" /></p>
