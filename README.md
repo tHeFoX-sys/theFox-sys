@@ -31,7 +31,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tHeFoX-sys/tHeFoX-sys/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
+<picture>
+<img src="https://raw.githubusercontent.com/tHeFoX-sys/tHeFoX-sys/output/snake.svg" alt="Snake animation" />
+</picture>
+
+
 
 
 
