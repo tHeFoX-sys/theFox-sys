@@ -33,6 +33,8 @@
 
 
 <picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tHeFoX-sys/tHeFoX-sys/output/snkae-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tHeFoX-sys/tHeFoX-sys/output/snake-contribution-graph.svg"> 
 <img src="https://raw.githubusercontent.com/tHeFoX-sys/tHeFoX-sys/output/snake.svg" alt="Snake animation" />
 </picture>
 
