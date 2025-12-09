@@ -15,8 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tHeFoX-sys&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-# <h1><strong>Top LANGUAGES</strong><h1>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theFox-sys)
+<h1><strong>Top LANGUAGES</strong></h1>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tHe-FoX-sys)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
