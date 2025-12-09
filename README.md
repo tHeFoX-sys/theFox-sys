@@ -6,7 +6,8 @@
 
 
 
-<h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat <b><i>PROFESSIONAL</i></b> Hacker and of course Hardware Engineer, I always create a big variety of projects that eludes your understanding, some of course for educational purposes only, others to fully inspect and study in depth my code.<br><h3 align = "center"><i>Make sure to follow me on GITHUB!!!!</i></h3><h3 align = "center">Worth mentioning that I used to have an old account by the name of Arfifias, and to be honest my ex numbed me so fucking hard that I decided for a while to actually go off the radar...probably one of the worse if not <b>THE WORST EXPERIENCE</b> I had so far in my life. At least all this time I just became a better developer and hacker so thanks 1.55m fat blonde dwarf girl, I hope you have a "good" day :)</h3><h2 align="center"><i>Bear in mind that I actually work as a bug bounty hunter too</i></h2><hr>
+<h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat <b><i>PROFESSIONAL</i></b> Hacker and of course Hardware Engineer, I always create a big variety of projects that eludes your understanding, some of course for educational purposes only, others to fully inspect and study in depth my code.<br><h3 align = "center"><i>Make sure to follow me on GITHUB!!!!</i></h3><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tHeFoX-sys&show_icons=true&locale=en&layout=donut&theme=neon" alt="tHeFoX-sys" /></p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tHeFoX-sys&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
