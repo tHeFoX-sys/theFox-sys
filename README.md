@@ -46,7 +46,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tHeFoX-sys/tHeFoX-sys/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tHeFoX-sys/tHeFoX-sys/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tHeFoX-sys/tHeFoX-sys/output/pacman-contribution-graph.svg">
-</picture>
+</picture><br>
+
+
+<h2 align="center"><strong>Which of them two:<br></strong><h2>
+<img src="Linuxtailis.png" alt="Linux_Talis"><br>
+<img src = "KaliLinux.webb" alt="Kali_Linux">
 
 
 
