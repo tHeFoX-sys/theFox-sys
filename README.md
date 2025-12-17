@@ -25,7 +25,7 @@
 
 <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=tHeFoX-sys&layout=compact&theme=neon)" align = "center">
 
-<h2 align="center">Worth mentioning I don't take biased, intoxicated and impartial people for granted. I was doubted about my skill in the past during my major year by "senior devs" who happened to be my teachers, though I had only one gif in my mind just take a look because to be honest they never knew and they never saw it coming in what I could achieve and personally I would never let my potential to be wasted :p</h2>
+<h2 align="center">Worth mentioning I don't take biased, intoxicated and partial people for granted. I was doubted about my skill in the past during my major year by "senior devs" who happened to be my teachers, though I had only one gif in my mind just take a look because to be honest they never knew and they never saw it coming in what I could achieve and personally I would never let my potential to be wasted :p</h2>
 
 <img src="skull.gif" align="center">
 
