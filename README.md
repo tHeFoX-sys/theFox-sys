@@ -49,9 +49,8 @@
 </picture><br>
 
 
-<h2 align="center"><strong>Which of them two:<br></strong><h2>
-<img src="Linuxtailis.png" alt="Linux_Talis"><br>
-<img src = "KaliLinux.webb" alt="Kali_Linux">
+<h2 align="center"><strong>THOSE WHO ARE WITH HIGH AWARENESS:<br></strong></h2>
+<p align = "center"><img src="Linux Tails.png" alt="Linux_Tails"></p><br>
 
 
 
