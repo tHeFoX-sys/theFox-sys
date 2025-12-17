@@ -49,7 +49,7 @@
 </picture><br>
 
 
-<h2 align="center"><strong>THOSE WHO ARE WITH HIGH AWARENESS:<br></strong></h2>
+<h2 align="center"><strong>THOSE WHO POSSESS HIGH AWARENESS IN THEIR IDEOLOGIES:<br></strong></h2>
 <p align = "center"><img src="Linux Tails.png" alt="Linux_Tails"></p><br>
 
 
