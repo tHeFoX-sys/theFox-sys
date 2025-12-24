@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=tHeFoX-sys&theme=radical&hide_border=false)<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tHeFoX-sys&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=donut-vertical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tHeFoX-sys&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=normal)
 
 
 ### ✍️ Random Dev Quote
