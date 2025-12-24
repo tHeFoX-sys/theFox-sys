@@ -50,6 +50,8 @@
 <h2 align="center"><strong>THOSE WHO POSSESS HIGH AWARENESS IN THEIR <strong><i>IDEOLOGIES::</i></strong><br></h2>
 <p align = "center"><img src="Linux Tails.png" alt="Linux_Tails"></p><br>
 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tHeFoX-sys&theme=neon&layout=compact)
+
 
 
 
