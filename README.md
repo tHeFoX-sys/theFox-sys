@@ -2,7 +2,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=theFox-sys&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tHeFoX-sys&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
