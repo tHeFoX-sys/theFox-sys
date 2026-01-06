@@ -1,10 +1,7 @@
 <h1 align="center">Greetings my fellow wannabe devs , I am THe_FøX </h1>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tHeFoX-sys&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<h2><stong><i>Achievments</i></strong><br></h2>
+##  <h2 align="center"><stong><i>🏆Achievments and Trophies</i></strong><br></h2>
 
 <h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat <b><i>PROFESSIONAL</i></b> Hacker and of course Hardware Engineer, I always create new projects and got under my collection a big variety of projects that eludes your understanding, some of course for educational purposes only, others to fully inspect and study in depth my code.<br> <h3 align="center">Possessing skills and being talented is somewhat of a boost. Obtaining and learning new tech to advance your arsenal is called evolving!</h3><h3 align = "center"><strong><i>Make sure to follow me on GITHUB!!!!</i></strong></h3><br>
 
@@ -12,7 +9,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=tHeFoX-sys&theme=radical&hide_border=false)<br><br>
+![](https://nirzak-streak-stats.vercel.app/?user=tHeFoX-sys&theme=radical&hide_border=false)<br>
 
 
 ### ✍️ Random Dev Quote
