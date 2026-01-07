@@ -13,13 +13,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tHeFoX-sys&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=tHeFoX-sys&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<hr>
 
 
 <h2 align="center">Worth mentioning I don't take biased, intoxicated and partial people for granted. I was doubted about my skill in the past during my major year by "senior devs" who happened to be my teachers, though I had only one gif in my mind just take a look because to be honest they never knew and they never saw it coming in what I could achieve and personally I would never let my potential to be wasted :p</h2>
