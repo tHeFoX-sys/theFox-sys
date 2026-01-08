@@ -7,7 +7,10 @@
 <div align = "center">
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=tHeFoX-sys&theme=radical&hide_border=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=tHeFoX-sys&theme=radical&hide_border=false)
+
+#Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tHeFoX-sys&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div><hr>
