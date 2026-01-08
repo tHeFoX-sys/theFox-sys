@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=tHeFoX-sys&theme=radical&hide_border=false)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THe_FøX&layout=donut)](https://github.com/THe_FøX/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THe_FøX&layout=donut)]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div><hr>
