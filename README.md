@@ -9,7 +9,8 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=tHeFoX-sys&theme=radical&hide_border=false)<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theFox-sys&layout=donut">
+## Top Languages
+<img alt = "languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div><hr>
