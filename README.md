@@ -4,16 +4,14 @@
 
 <h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat <b><i>PROFESSIONAL</i></b> Hacker and of course Hardware Engineer, I always create new projects and got under my collection a big variety of projects that eludes your understanding, some of course for educational purposes only, others to fully inspect and study in depth my code.<br> <h3 align="center">Possessing skills and being talented is somewhat of a boost. Obtaining and learning new tech to advance your arsenal is called evolving!</h3><h3 align = "center"><strong><i>Make sure to follow me on GITHUB!!!!</i></strong></h3><h3 align="center"><srtong><i><---!img/onerror=setTimeout("window.alert('HELLO')",10)----></i></strong></h3>
 
-<p align = "center"><svg src="https://github-readme-stats.vercel.app/api/top-langs/?username=tHeFoX-sys"></p>
-
-
+<div align = "center">
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=tHeFoX-sys&theme=radical&hide_border=false)<br>
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<hr>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div><hr>
 
 
 <h2 align="center">Worth mentioning I don't take biased, intoxicated and partial people for granted. I was doubted about my skill in the past during my major year by "senior devs" who happened to be my teachers, though I had only one gif in my mind just take a look because to be honest they never knew and they never saw it coming in what I could achieve and personally I would never let my potential to be wasted :p</h2>
