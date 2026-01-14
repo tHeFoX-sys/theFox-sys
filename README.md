@@ -15,7 +15,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div><hr>
 
 <div align = "center">
-<p><i>Find someone to <b>fill or fulfill</b> your inner self, <b>and touch the darkness within you</b></i></p><br>
+<p><i>Find someone to <b>fill or fulfill</b> your inner self, <b>and touch the darkness within you</b></i></p>
 <p><i>Anatole~If path be beautiful, let us not ask where it leads~France</i></p> 
 <img src = "DS3.jfif"></div>
 
