@@ -14,6 +14,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div><hr>
 
+<div align = "center">
+<h3><strong>Find someonoe to fill or fulfill your inner self, and erase the darkness within you</strong></h3>
+<img src = "DS3.jfif"></div>
+
 
 <h2 align="center">Worth mentioning I don't take biased, intoxicated and partial people for granted. I was doubted about my skill in the past during my major year by "senior devs" who happened to be my teachers, though I had only one gif in my mind just take a look because to be honest they never knew and they never saw it coming in what I could achieve and personally I would never let my potential to be wasted :p</h2>
 
