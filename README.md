@@ -1,8 +1,8 @@
-<h1 align="center">Greetings my fellow wannabe devs , <i>I am THe_FøX</i> </h1>
+<h1 align="center">Greetings my fellow wannabe devs , <strong><i>I am THe_FøX</i></strong> </h1>
 
 <h2 align="center"><i>🏆Achievements and Trophies</i><br></h2>
 
-<h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat <i>PROFESSIONAL</i> Hacker (<i>Red Teamer</i> and <i>Founder</b> of <b>$y$tem_86BIT</i>) and of course Hardware Engineer, I always create new projects and got under my collection a big variety of projects that eludes your understanding, some of course for educational purposes only, others to fully inspect and study in depth my code.<br> <h3 align="center">Possessing skills and being talented is somewhat of a boost. Obtaining and learning new tech to advance your arsenal is called evolving!</h3><h3 align = "center"><i>Make sure to follow me on <b>GITHUB and LINKEDIN!</b></i></h3><h3 align="center"><i><---!img/onerror=setTimeout("window.alert('HELLO')",10)----></i></h3>
+<h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat <i>PROFESSIONAL</i> Hacker (<i>Red Teamer</i> and <i>Founder</b> of <b>$y$tem_86BIT</i>) and of course Hardware Engineer, I always create new projects and got under my collection a big variety of projects that eludes your understanding, some of course for educational purposes only, others to fully inspect and study in depth my code.<br> <h3 align="center">Possessing skills and being talented is somewhat of a boost. Obtaining and learning new tech to advance your arsenal is called evolving!</h3><h3 align = "center"><i>Make sure to follow me on <b>GITHUB and LINKEDIN!</b></i></h3><h3 align="center"><b><i><---!img/onerror=setTimeout("window.alert('HELLO')",10)----></i></b></h3>
 
 
 
@@ -15,7 +15,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div><hr>
 
 <div align = "center">
-<p><i>Find someone to <b>fill or fulfill</b> your inner self, <b>and touch the darkness within you</b></i></p>
+<p><i>Find someone to <b>fill or fulfill</b> your inner self, <b>and touch the darkness within you</b></i></p><br>
+<p><i>Anatole~If path be beautiful, let us not ask where it leads~France</i></p> 
 <img src = "DS3.jfif"></div>
 
 
@@ -33,7 +34,7 @@
 <img src = "me.gif" align = "certer">
 
 
-<h2 align = center>For those who actually know :)</h2>
+<h2 align = center><i>For those who actually know :)</i></h2>
 
 
 
