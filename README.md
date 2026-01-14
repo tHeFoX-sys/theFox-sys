@@ -2,7 +2,7 @@
 
 <h2 align="center"><stong><i>🏆Achievements and Trophies</i></strong><br></h2>
 
-<h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat <b><i>PROFESSIONAL</i></b> Hacker and of course Hardware Engineer, I always create new projects and got under my collection a big variety of projects that eludes your understanding, some of course for educational purposes only, others to fully inspect and study in depth my code.<br> <h3 align="center">Possessing skills and being talented is somewhat of a boost. Obtaining and learning new tech to advance your arsenal is called evolving!</h3><h3 align = "center"><strong><i>Make sure to follow me on GITHUB and LINKEDIN!!!!</i></strong></h3><h3 align="center"><srtong><i><---!img/onerror=setTimeout("window.alert('HELLO')",10)----></i></strong></h3>
+<h3 align="center"> As an experienced Certified Full Stack Developer, Blue Hat <b><i>PROFESSIONAL</i></b> Hacker and of course Hardware Engineer, I always create new projects and got under my collection a big variety of projects that eludes your understanding, some of course for educational purposes only, others to fully inspect and study in depth my code.<br> <h3 align="center">Possessing skills and being talented is somewhat of a boost. Obtaining and learning new tech to advance your arsenal is called evolving!</h3><h3 align = "center"><i>Make sure to follow me on <b>GITHUB and LINKEDIN!</b></i></h3><h3 align="center"><i><---!img/onerror=setTimeout("window.alert('HELLO')",10)----></i></strong></h3>
 
 
 
@@ -15,7 +15,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div><hr>
 
 <div align = "center">
-<h3><strong>Find someonoe to fill or fulfill your inner self, and erase the darkness within you</strong></h3>
+<p><i>Find someone to <b>fill or fulfill</b> your inner self, <b>and touch the darkness within you</b></i></p>
 <img src = "DS3.jfif"></div>
 
 
