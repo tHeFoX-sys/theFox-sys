@@ -17,8 +17,12 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=tHeFoX-sys&theme=radical&hide_border=false)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div><hr>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div><hr><br>
+
+### MORE STATS 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tHeFoX-sys&show_icons=true&locale=en&layout=pie&theme=neon" alt="tHeFoX-sys"/><br></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tHeFoX-sys&show_icons=true&locale=en&theme=neon" alt="tHeFoX-sys" /></p>
 
 <div align = "center">
 <p><i>Find someone to <b>fill or fulfill</b> your inner self, <b>and touch the darkness within you</b></i></p>
