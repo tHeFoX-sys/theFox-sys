@@ -22,8 +22,6 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Most Used Languages and Tools
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tHeFoX-sys&show_icons=true&locale=en&layout=pie&theme=neon" alt="tHeFoX-sys"/><br></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tHeFoX-sys&show_icons=true&locale=en&theme=neon" alt="tHeFoX-sys" /></p></div>
 
 <div align = "center">
 <p><i>Find someone to <b>fill or fulfill</b> your inner self, <b>and touch the darkness within you</b></i></p>
