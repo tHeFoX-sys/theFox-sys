@@ -20,6 +20,8 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tHeFoX-sys&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align = "center">
 <p><i>Find someone to <b>fill or fulfill</b> your inner self, <b>and touch the darkness within you</b></i></p>
