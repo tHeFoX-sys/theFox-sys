@@ -1,6 +1,6 @@
 <h1 align="center">Greetings my fellow wannabe devs , <strong><i>I am THe_FøX</i></strong> </h1>
 
-<h2 align="center"><i>🏆Achievements and Trophies</i><br></h2>
+<h2 align="center"><i>🏆Achievements,Trophies and Discipline</i><br></h2>
 
 <h3 align="center"> As an experienced Certified Full Stack Developer, RED Hat <i>PROFESSIONAL</i> Hacker (<i>Red Teamer</i> and <i>Founder</b> of <b>$y$tem_86BIT</i>) and of course Hardware Engineer, I always create new projects and I've got under my collection a big variety of projects that eludes your understanding, some of course for educational purposes only, others to fully inspect and study in depth my code.</h3><h3 align="center">Possessing skills and being talented is somewhat of a boost. Obtaining and learning new tech to advance your arsenal is called evolving!</h3><h3 align = "center"><i>Make sure to follow me on <b>GITHUB and LINKEDIN!</b></i></h3><h3 align="center"><b><i><---!img/onerror=setTimeout("window.alert(`HELLO`)",10)----></i></b>
 
